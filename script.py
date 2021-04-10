@@ -1,12 +1,12 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """no one gonna help you 🤣🤣"""
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
 
-See <i>/help</i> for commands and more details.</b>
-"""
+
+
+
+
 
 
     HELP_MSG = """
@@ -15,7 +15,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Basic Commands;</b>
 
-/start - Check if I'm alive!
+/start - no one gonna help you 🤣🤣🤣🤣
 /help - Command help
 /about - Something about me!
 
